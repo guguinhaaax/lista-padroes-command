@@ -5,7 +5,7 @@
 **Prompt**:  
     considerando a imagem anexada, gere um passo a passo para a solução dessa questão, utilizando a linguagem java para a resposta 
 
-    ![alt text](image.png)
+![alt text](image.png)
 
 **Resposta**:
 
